@@ -2,8 +2,8 @@ Analysis for {authors blinded} (submitted)
 =============================================
 
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/nomcomm/communication_teacher_nlg/HEAD)
 
-[![Binder](https://mybinder.org/v2/gh/nomcomm/communication_teacher_nlg/HEAD)
 
 
 ***
