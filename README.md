@@ -14,7 +14,5 @@ The notebooks are for the main activities of the workshop: AI-message generation
 
 ***
 
-<img align="right" width=550px src=data/explainer_fig.png> 
-
 
 2023 | {Lim & Schmälzle} 
