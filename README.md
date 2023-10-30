@@ -1,4 +1,4 @@
-Analysis for Lim & Schmälzle. (2023).
+Build-a-Bot Workshop Materials from Lim & Schmälzle. (2023).
 =============================================
 Build-a-Bot workshop materials referenced in Lim & Schmälzle. (in print). Exploring the mechanisms of AI message generation: A chatbot development activity for students. _Communication Teacher_. https://doi.org/10.1080/17404622.2023.2269258.
 
